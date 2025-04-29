@@ -63,7 +63,6 @@ By the end of this session, you will be able to:
 ## Resources for Further Learning
 - [Python Official Documentation](https://docs.python.org/3/tutorial/datastructures.html)
 - [Real Python - Data Structures](https://realpython.com/python-data-structures/)
-- [Python for Everybody](https://www.py4e.com/)
 
 ## Contact
 For questions or additional support, please reach out during office hours or via the course messaging system.
