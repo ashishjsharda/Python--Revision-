@@ -11,6 +11,9 @@ def log_event(event, log_file='app.log'):
     
     # Generate a timestamp in a readable format
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+    #datetime.now().strftime('%A, %B %d, %Y at %I:%M %p')
+    # Result: "Thursday, May 08, 2025 at 02:32 PM"
     
     # Format the log entry with timestamp
     log_entry = f'[{timestamp}] {event}\n'
