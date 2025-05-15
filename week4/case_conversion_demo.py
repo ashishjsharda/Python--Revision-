@@ -1,0 +1,5 @@
+text = "Hello, World!"
+upper_case = text.upper()       # "HELLO, WORLD!"
+lower_case = text.lower()       # "hello, world!"
+title_case = text.title()       # "Hello, World!"
+capitalize = text.capitalize()  # "Hello, world!"
